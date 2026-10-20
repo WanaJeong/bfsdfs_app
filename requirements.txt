@@ -1,2 +1,5 @@
 streamlit
 graphviz
+pandas
+networkx
+matplotlib
